@@ -4,8 +4,8 @@ import time
 import os
 
 user = ""
-udid = ""
 token = ""
+udid = "000000000000000"
 
 q = QIWI.QIWI(user,token,udid)
 
